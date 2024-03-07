@@ -1,5 +1,7 @@
 # 📦 python3-saml-aws-lambda-layer
 
+![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
+
 This repository contains a ready-to-use [AWS Lambda layer](https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html) for using the [python3-saml](https://github.com/onelogin/python3-saml) package in a Python 3.8 runtime.
 
 All Python packages have been built and compiled in an Amazon AMI system.
